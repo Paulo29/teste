@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.0.0.0 -- build 3 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="AMC">
+    <display-name lang="pt">AMC</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="AMC HD">
+    <display-name lang="pt">AMC HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Animal Planet">
+    <display-name lang="pt">Animal Planet</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Animal Planet HD">
+    <display-name lang="pt">Animal Planet HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <programme start="20200501123000 -0300" stop="20200501144500 -0300" channel="AMC">
+    <title lang="pt">Robocop (2014)</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200501144500 -0300" stop="20200501174000 -0300" channel="AMC">
+    <title lang="pt">O Hobbit: Uma Jornada Inesperada</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20200501174000 -0300" stop="20200501202000 -0300" channel="AMC">
+    <title lang="pt">O Hobbit: A Desolação de Smaug</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20200501202000 -0300" stop="20200501223000 -0300" channel="AMC">
+    <title lang="pt">Robocop (2014)</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200501223000 -0300" stop="20200502003000 -0300" channel="AMC">
+    <title lang="pt">Os Mercenários 3</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200501123900 -0300" stop="20200501133200 -0300" channel="Animal Planet">
+    <title lang="pt">Pesca Insana</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200501133200 -0300" stop="20200501142600 -0300" channel="Animal Planet">
+    <title lang="pt">Pesca Insana</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200501142600 -0300" stop="20200501152000 -0300" channel="Animal Planet">
+    <title lang="pt">Pesca Insana</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200501152000 -0300" stop="20200501161400 -0300" channel="Animal Planet">
+    <title lang="pt">África Selvagem: Rios</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200501161400 -0300" stop="20200501170700 -0300" channel="Animal Planet">
+    <title lang="pt">África Selvagem: Rios</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200501170700 -0300" stop="20200501180000 -0300" channel="Animal Planet">
+    <title lang="pt">África Selvagem: Rios</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200501180000 -0300" stop="20200501182600 -0300" channel="Animal Planet">
+    <title lang="pt">Terra Brasil</title>
+    <category lang="pt">Séries/Meio Ambiente</category>
+  </programme>
+  <programme start="20200501182600 -0300" stop="20200501185200 -0300" channel="Animal Planet">
+    <title lang="pt">Terra Brasil</title>
+    <category lang="pt">Séries/Meio Ambiente</category>
+  </programme>
+  <programme start="20200501185200 -0300" stop="20200501194300 -0300" channel="Animal Planet">
+    <title lang="pt">Pesca Selvagem</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200501194300 -0300" stop="20200501203400 -0300" channel="Animal Planet">
+    <title lang="pt">Pesca Selvagem</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200501203400 -0300" stop="20200501212800 -0300" channel="Animal Planet">
+    <title lang="pt">Pesca Insana</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200501212800 -0300" stop="20200501222200 -0300" channel="Animal Planet">
+    <title lang="pt">Pesca Insana</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200501222200 -0300" stop="20200501231300 -0300" channel="Animal Planet">
+    <title lang="pt">Pesca Mortal</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200501231300 -0300" stop="20200502000300 -0300" channel="Animal Planet">
+    <title lang="pt">Pesca Mortal</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+</tv>
